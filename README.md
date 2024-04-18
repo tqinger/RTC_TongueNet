@@ -1,4 +1,4 @@
-
+## 论文:RTC_TongueNet：A tongue image segmentation model based on DeepLabV3 improvement  的代码
 
 ## 该项目主要是来自pytorch官方torchvision模块中的源码基础上改进
 * https://github.com/pytorch/vision/tree/main/torchvision/models/segmentation
@@ -31,9 +31,8 @@
   不是```deeplabv3_resnet50_coco-cd0a2569.pth```
  
  
-## 数据集，本例程使用的是PASCAL VOC2012数据集
-* Pascal VOC2012 train/val数据集下载地址：http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
-* 如果不了解数据集或者想使用自己的数据集进行训练，请参考我的博文: 
+## 数据集，本例程使用的数据集介绍见论文
+* 或者请参考我的博文: 
 
 
 ## 注意事项
